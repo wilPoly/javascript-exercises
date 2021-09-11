@@ -8,6 +8,7 @@ const ctof = function(temp) {
 	return (tempFaranheit === 0.0) ? 0 : tempFaranheit;
 };
 
+// Do not edit below this line
 module.exports = {
   ftoc,
   ctof
